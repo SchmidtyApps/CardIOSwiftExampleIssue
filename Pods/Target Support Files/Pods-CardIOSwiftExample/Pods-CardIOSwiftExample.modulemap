@@ -1,0 +1,6 @@
+framework module Pods_CardIOSwiftExample {
+  umbrella header "Pods-CardIOSwiftExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
